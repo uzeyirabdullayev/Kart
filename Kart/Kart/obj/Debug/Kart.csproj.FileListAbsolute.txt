@@ -1,0 +1,7 @@
+C:\Users\uzayirna\source\repos\Kart\Kart\bin\Debug\Kart.exe.config
+C:\Users\uzayirna\source\repos\Kart\Kart\bin\Debug\Kart.exe
+C:\Users\uzayirna\source\repos\Kart\Kart\bin\Debug\Kart.pdb
+C:\Users\uzayirna\source\repos\Kart\Kart\obj\Debug\Kart.csprojResolveAssemblyReference.cache
+C:\Users\uzayirna\source\repos\Kart\Kart\obj\Debug\Kart.csproj.CoreCompileInputs.cache
+C:\Users\uzayirna\source\repos\Kart\Kart\obj\Debug\Kart.exe
+C:\Users\uzayirna\source\repos\Kart\Kart\obj\Debug\Kart.pdb
